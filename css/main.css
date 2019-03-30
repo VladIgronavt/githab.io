@@ -1,0 +1,180 @@
+body{
+	font-family: 'Russo One', sans-serif;
+}
+div{
+	box-sizing: border-box;
+}
+.content h1{
+	margin: 20px;
+}
+.title_text h1{
+	margin-top: 220px;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+     text-align: center;
+     text-transform: uppercase;
+}
+.title_text p{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+     text-align: center;
+}
+.title h2{
+	margin: 60px;
+	font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+        text-transform: uppercase;
+}
+.title h3{
+	font-size: 35px;
+     text-align: center;
+}
+.title p{
+ color: #ccc;
+  text-align: center;
+}
+.logo{
+	float: left;
+	color: white;
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	margin-right: 30px;
+	font-weight: bold;
+}
+.menu{
+	background: #252525;
+	padding: 10px;
+	overflow: hidden;
+}
+.menu ul{
+	padding: 8px;
+}
+.menu li{
+	float: left;
+	display: block;
+	margin-left: 15px;
+}
+.menu a{
+	color: #ccc;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Russo One', sans-serif;
+	font-size: 15px;
+}
+.button_down{
+	float: right;
+    padding: 10px;
+}
+.menu a:hover{
+	 color: #fff;
+	text-decoration: none;
+}
+.header{
+	background: url(../img/bg.jpg) no-repeat center top / cover fixed;
+	height: 800px;
+}
+.header-donat{
+	background: url(../img/bg.jpg) no-repeat center top / cover fixed;
+}
+.title_text{
+	margin-top: 130px;
+}
+footer{
+	background: #252525;
+	color: white;
+	overflow: hidden;
+	padding: 30px;
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	color: #ccc;
+}
+.menu i{
+	margin-right: 8px;
+	margin-left: 8px;
+}
+.icons{
+float: right;
+font-size: 35px;
+}
+.item-sevises i{
+text-align: center;
+font-size: 150px;
+padding-left: 55px;
+}
+.item-sevises img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.button{
+	background: #fed136;
+	color: #000;
+	border-radius: 3px;
+	display: block;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 20px;
+
+}
+.button:hover{
+	color: #ccc;
+	text-transform: uppercase;
+}
+.block-login{
+	background: white;
+	padding: 40px;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,0.35);
+	margin-top: 100px;
+}
+.text-login{
+width: 365px;
+height: 70px;
+padding: 10px;
+}
+.button-login{
+	background: #fed136;
+width: 240px;
+height: 60px;
+font-size: 18px;
+font-weight: bold;
+text-transform: uppercase;
+border: none;
+}
+.button-login-brt{
+	background: #fff;
+    border: 1px solid #fed136;
+    width: 240px;
+    height: 60px;
+font-size: 18px;
+font-weight: bold;
+text-transform: uppercase; 
+text-align: center;
+}
+.button-login-brt:hover{
+	background: #fed136;
+}
+.button-login:hover{
+	background: #fed115;
+}
+.content{
+	margin-top: 100px;
+	background: #252525;
+	padding: 15px;
+	color: white;
+	text-align: center;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,0.35);
+	margin-bottom: 40px;
+}
